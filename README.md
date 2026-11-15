@@ -100,21 +100,4 @@ Cada operación realizada se registra automáticamente en el historial, incluyen
 
 El historial puede consultarse desde la opción correspondiente del menú principal.
 
----
-
-## Evidencias sugeridas para la entrega
-
-Para el archivo PDF se recomienda incluir capturas de pantalla de:
-
-1. División entre cero.
-2. Entrada inválida de datos.
-3. Cálculo de raíz cuadrada con número negativo.
-4. Demostración de propagación de excepciones.
-5. Visualización del historial de operaciones.
-
----
-
-## Autor
-
-Proyecto desarrollado como parte de la Actividad 1: Calculadora Segura con Manejo de Excepciones.
 
